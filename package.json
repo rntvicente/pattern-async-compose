@@ -1,0 +1,31 @@
+{
+  "name": "example-async-compose",
+  "version": "0.0.1",
+  "description": "Example using async-compose",
+  "main": "asyncCompose.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node async-compose.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rntvicente/example-async-compose.git"
+  },
+  "engines": {
+    "node": "8.11.3"
+  },
+  "keywords": [
+    "async",
+    "async-compose",
+    "callback"
+  ],
+  "author": "Renato Vicente",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rntvicente/example-async-compose/issues"
+  },
+  "homepage": "https://github.com/rntvicente/example-async-compose#readme",
+  "dependencies": {
+    "async": "^2.6.1"
+  }
+}
